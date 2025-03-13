@@ -115,3 +115,12 @@ The application runs until the user closes the GUI window. Encryption and decryp
 ## Conclusion
 
 The Advanced Encryption Tool provides a user-friendly and robust solution for file encryption and decryption, leveraging the strength of AES-256 cryptography. This project serves as a practical demonstration of applying cryptographic principles and GUI development in Python to create a useful security application. It offers a valuable starting point for individuals interested in data security, cryptography, and building secure desktop applications.
+
+## Output
+
+**Advanced Encryption Tool UI**
+![Advanced Encryption Tool ](https://github.com/user-attachments/assets/fe0912d5-9c60-4d5e-bf01-c027ea487559)
+**Advanced Encryption Tool Input**
+![Advanced Encryption Tool Input](https://github.com/user-attachments/assets/3863f3eb-6f15-49bb-9943-0fd668b6921c)
+**Advanced Encryption Tool Output**
+![Output](https://github.com/user-attachments/assets/589bfa28-72e9-44cf-a889-bcfa7351918e)
